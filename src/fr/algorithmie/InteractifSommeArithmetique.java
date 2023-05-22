@@ -11,6 +11,6 @@ public class InteractifSommeArithmetique {
         for(int i = 1; i <= nb; i++){
             sum +=i;
         }
-        System.out.print(sum);
+        System.out.print("Somme arithmétique : " + sum);
     }
 }

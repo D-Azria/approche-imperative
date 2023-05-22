@@ -1,5 +1,10 @@
 package fr.algorithmie;
 
+
+//
+//// A FAIRE
+//
+
 public class FabriquerMur {
     public static void main(String[] args) {
 // Tests de vérification
